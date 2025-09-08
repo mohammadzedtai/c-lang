@@ -15,7 +15,7 @@ int main()
         {
             printf(" %d", j);
         }
-
+      // numbers
         for (int j = 4; j >= i; j--)
             {
                 printf(" %d", j);
@@ -28,3 +28,4 @@ int main()
 
     return 0;
 }
+
